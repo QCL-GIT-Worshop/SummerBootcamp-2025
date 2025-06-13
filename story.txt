@@ -1,6 +1,6 @@
 # Beginning
 
 # Plot
-This is the middle of the story. I am updating the middle of story as I was told. 
+This is the middle of the story. I am updating the middle of story as I was told. I made a mistake trying to request merge into main. Sorry!
 
 # Resolution
