@@ -1,4 +1,4 @@
-# Three Sci-Fi Twists
+# Three Sci-Fi Twists 2
 
 ## 1. The Time Travel Blackout Paradox
 Premise: Time travel exists, but every time someone travels to the past, they lose all their memories until they return to their original timeline.
