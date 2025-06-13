@@ -2,6 +2,4 @@
 
 # Plot
 
-A time agent discovers a past version of themselves leading a rebellion—but the agent has no memory of ever joining it. They must decide: sabotage their past self to preserve the timeline or trust a version of themselves they can’t remember.
-
 # Resolution
